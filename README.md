@@ -29,4 +29,6 @@ Feel free to look around my profile. If you wish to take a quick look at some of
 
 **Activity:**
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@64bf6966-7808-4cb0-8971-3e51af53445f/3c7c7010-441a-4de5-8470-2bec376d3b1f.png" /></a>
+<center>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@64bf6966-7808-4cb0-8971-3e51af53445f/3c7c7010-441a-4de5-8470-2bec376d3b1f.png" width="600></a>
+</center>
