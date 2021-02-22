@@ -4,7 +4,7 @@ My name is Vaansh and I am a Computer Science student at Concordia University.
 
 ---
 
-Feel free to look around my profile. If you wish to take a quick look at some of my work feel free to check them out here:
+Feel free to wander around here, I always appreciate visitors! If you wish to take a quick look at some of my work feel free to check them out here:
 
 **Projects:**
 
@@ -17,7 +17,6 @@ Feel free to look around my profile. If you wish to take a quick look at some of
 - https://github.com/SOEN287Chads/beast
 
 ---
-
 **Socials:**
 
 - 💻 LinkedIn: http://linkedin.com/in/vaansh/
@@ -33,3 +32,5 @@ Feel free to look around my profile. If you wish to take a quick look at some of
 <center>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@64bf6966-7808-4cb0-8971-3e51af53445f/3c7c7010-441a-4de5-8470-2bec376d3b1f.png" width="600"></a>
 </center>
+
+---
