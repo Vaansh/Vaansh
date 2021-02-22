@@ -14,6 +14,7 @@ Feel free to look around my profile. If you wish to take a quick look at some of
 - https://github.com/Vaansh/Binary-Character-Generator
 - https://github.com/Vaansh/CPU-Scheduling-Simulator
 - https://github.com/Vaansh/Dynamic-ADT-Database
+- https://github.com/SOEN287Chads/beast
 
 ---
 
