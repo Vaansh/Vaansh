@@ -8,6 +8,7 @@ Feel free to wander around here, I always appreciate visitors! If you wish to ta
 
 **Projects:**
 
+- https://github.com/Vaansh/.NET5-REST-API-Catalog
 - https://github.com/Vaansh/Reddit-to-Instagam-Automation
 - https://github.com/Vaansh/Cyclone-The-Game
 - https://github.com/Vaansh/GameBoard
