@@ -1,4 +1,4 @@
-### Hello World 👋
+## Hello World 👋
 
 My name is Vaansh and I am a Computer Science student at Concordia University.
 
