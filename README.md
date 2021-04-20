@@ -24,8 +24,6 @@ Feel free to wander around here, I always appreciate visitors! If you wish to ta
 - 📧 Email: vaanshlakhwara@gmail.com
 - 📥 Instagram: https://www.instagram.com/1nshed/
 - 📸 Unsplash: http://unsplash.com/@vaansh
-- 🤠 Discord: https://discordapp.com/users/752901625655328789
-
 ---
 
 **Activity:**
