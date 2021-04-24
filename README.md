@@ -11,11 +11,8 @@ Feel free to wander around here, I always appreciate visitors! If you wish to ta
 - https://github.com/Vaansh/.NET5-REST-API-Catalog
 - https://github.com/Vaansh/Reddit-to-Instagam-Automation
 - https://github.com/Vaansh/Cyclone-The-Game
+- https://github.com/Vaansh/Multithreaded-Banking-System
 - https://github.com/Vaansh/GameBoard
-- https://github.com/Vaansh/Binary-Character-Generator
-- https://github.com/Vaansh/CPU-Scheduling-Simulator
-- https://github.com/Vaansh/Dynamic-ADT-Database
-- https://github.com/SOEN287Chads/beast
 
 ---
 **Socials:**
