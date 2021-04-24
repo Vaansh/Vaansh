@@ -24,12 +24,13 @@ Feel free to wander around here, I always appreciate visitors! If you wish to ta
 - 📧 Email: vaanshlakhwara@gmail.com
 - 📥 Instagram: https://www.instagram.com/1nshed/
 - 📸 Unsplash: http://unsplash.com/@vaansh
+- 🤠 Discord: https://discordapp.com/users/752901625655328789
 ---
 
 **Activity:**
 
 <center>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@64bf6966-7808-4cb0-8971-3e51af53445f/3c7c7010-441a-4de5-8470-2bec376d3b1f.png" width="600"></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@64bf6966-7808-4cb0-8971-3e51af53445f/6acf2fb6-ba96-420a-b9cb-a373bd912c90.png" width="600"/></a>
 </center>
 
 ---
