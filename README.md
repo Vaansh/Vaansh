@@ -1,5 +1,11 @@
 <h1 align="center"> Hello, World! 👋 </h1>
 
+<p align="center">
+  <a href="#">
+      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vaansh&repo=Vaansh&countColor=%237B1E7A" />          
+   </a>
+</p>
+
 My name is Vaansh and I am a second year computer science student at Concordia University.
 
 ---
