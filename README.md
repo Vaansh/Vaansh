@@ -14,11 +14,11 @@ Feel free to wander around here, I always appreciate visitors! If you wish to ta
 
 <b>Projects:</b>
 <ul>
-  <li> https://github.com/Vaansh/.NET5-REST-API-Catalog </li>
-  <li> https://github.com/Vaansh/Reddit-to-Instagam-Automation </li>
-  <li> https://github.com/Vaansh/GameBoard </li>
-  <li> https://github.com/Vaansh/Cyclone-The-Game </li>
-  <li> https://github.com/Vaansh/Multithreaded-Banking-System </li>
+  <li><a href="https://github.com/vaansh/lireddit"> LiReddit </a></li>
+  <li><a href="https://github.com/Vaansh/.NET5-REST-API-Catalog"> Catalog </a></li>  
+  <li><a href="https://github.com/Vaansh/Reddit-to-Instagam-Automation"> Workflow Automation </a></li>
+  <li><a href="https://github.com/SOEN287Chads/beast"> BeastFit </a></li>
+  <li><a href="https://github.com/Vaansh/Cyclone-The-Game"> Cyclone </a></li> 
 </ul>
 
 ---
