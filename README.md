@@ -6,7 +6,7 @@
    </a>
 </p>
 
-My name is Vaansh and I am a second year computer science student at Concordia University.
+My name is Vaansh and I am a third year computer science student at Concordia University.
 
 ---
 
