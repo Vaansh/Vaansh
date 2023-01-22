@@ -15,7 +15,6 @@ My name is Vaansh and I am a final year computer science student at Concordia Un
 </p>
 
 <h3 align="center"> 👨‍💻 Programming Languages </h3>
-<h4 align="center"> Experienced </h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
