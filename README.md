@@ -6,22 +6,7 @@
    </a>
 </p>
 
-My name is Vaansh and I am a final year computer science student at Concordia University.
-
----
-
-Feel free to wander around here, I always appreciate visitors! If you wish to take a quick look at some of my work feel free to check them out here:
-
-<b>Some Projects:</b>
-<ul>
-  <li><a href="https://github.com/vaansh/lireddit"> LiReddit </a></li>
-  <li><a href="https://github.com/Vaansh/Reddit-to-Instagam-Automation"> Workflow Automation </a></li>
-  <li><a href="https://github.com/Vaansh/.NET5-REST-API-Catalog"> A Simple Catalog API </a></li>  
-  <li><a href="https://github.com/SOEN287Chads/beast"> BeastFit </a></li>
-  <li><a href="https://github.com/Vaansh/Cyclone-The-Game"> Cyclone </a></li> 
-</ul>
-
----
+My name is Vaansh and I am a final year computer science student at Concordia University. Feel free to wander around here, I always appreciate visitors!
 
 <h1 align="center"> Workspace </h1>
 
@@ -103,14 +88,11 @@ Feel free to wander around here, I always appreciate visitors! If you wish to ta
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </p>
 
----
 
 <h1 align="center"> Activity </h1>
 <p align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@64bf6966-7808-4cb0-8971-3e51af53445f/6acf2fb6-ba96-420a-b9cb-a373bd912c90.png" width="600"/></p>
   
----
-
 <h2 align="center"> 📫 Find me on</h2>
 
 <p align="center">
