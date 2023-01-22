@@ -25,20 +25,13 @@ My name is Vaansh and I am a final year computer science student at Concordia Un
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">    
 </p>
 
-<h4 align="center"> Familiar </h4>
+<h4 align="center"> Familiar 🙃 </h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">  
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">  
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  
-</p>
-
-<h4 align="center"> Learning 🙃 </h4>
-<p align="center">
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">  
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">  
-    <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=Clojure&logoColor=white">     
 </p>
 
 <h3 align="center"> 🚀 Frameworks & Libraries </h3>
