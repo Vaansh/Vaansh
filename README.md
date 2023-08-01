@@ -83,7 +83,7 @@ My name is Vaansh and I am a final year computer science student at Concordia Un
 
 <h1 align="center"> Activity </h1>
 <p align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@64bf6966-7808-4cb0-8971-3e51af53445f/95d1f789-7609-4078-8ac8-51c62385b210.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@vaansh/a373a7ec-f910-434d-9503-d2c8dfdc37af.png" /></a>
   
 <h2 align="center"> 📫 Find me on</h2>
 
